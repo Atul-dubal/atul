@@ -15,10 +15,10 @@
   <header><img id="menu" src="logo.png"> <img align="right" id="menu1" src="logo.png">
   <div id="container1">
     <div id="list">
-    <h2> <a href="index.html">HOME</a></h2>
-      <h2><a href="Login.html">LOG IN</a></h2>
-      <h2><a href="Resister">RESISTER</a></h2>
-      <h2><a href="Contact.html">CONTACT</a></h2>
+    <h2> <a href="index.php">HOME</a></h2>
+      <h2><a href="Login.php">LOG IN</a></h2>
+      <h2><a href="Resister.php">RESISTER</a></h2>
+      <h2><a href="Contact.php">CONTACT</a></h2>
     </div>
     </div>
     </header>
