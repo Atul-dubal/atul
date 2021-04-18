@@ -7,7 +7,7 @@
 
   <title>ATUL D. DUBAL</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="logo.png">
+  <link rel="icon" href="Atul.jpg">
   <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
 </head>
 
@@ -50,9 +50,9 @@
    <p></br> </p>
    </article>
 </br>
-   
+   <footer>
      <article>&copy;copyright 2020/2021 The content in this website is prevented</article>
-  
+  </footer>
   <script src="main.js"></script>
 </body>
 </html>
