@@ -50,9 +50,9 @@
    <p></br> </p>
    </article>
 </br>
-   <footer>
+   
      <article>&copy;copyright 2020/2021 The content in this website is prevented</article>
-   </footer>
+  
   <script src="main.js"></script>
 </body>
 </html>
