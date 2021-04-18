@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>HTML & CSS</title>
+  <title>ATUL D. DUBAL</title>
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="logo.png">
   <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
