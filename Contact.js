@@ -1,0 +1,12 @@
+  $("#name").hide();
+    $("#occa").hide();
+      $("#add").hide();
+        $("#insta").hide();
+        $("#phone").hide();
+$(document).ready(function(){
+$("#name").show(2000);
+ $("#occa").show(2000);
+  $("#add").show(2000);
+  $("#insta").show(2000);
+  $("#phone").show(2000);
+})
