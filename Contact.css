@@ -1,0 +1,23 @@
+body{
+  background:url("Atul.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size:cover;
+  background-size: center;
+  font-family: fantasy;
+}
+h1{
+  font-size: 30px;
+  color: red;
+}
+p{
+  color: black;
+  text-align: center;
+}
+img{
+  width: 200px;
+  height: 250px;
+}
+#info{
+  position: absolute;
+  top: 400px;
+}
