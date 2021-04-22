@@ -12,35 +12,91 @@
 </head>
 
 <body >
-  <header><img id="menu" src="logo.png"> <img align="right" id="menu1" src="logo.png">
+  <header><img id="menu" src="grampanchayat.jpg"> <img align="right" id="menu1" src="grampanchayat.jpg">
   <div id="container1">
     <div id="list">
     <h2> <a href="index.php">HOME</a></h2>
-      <h2><a href="Login.php">LOG IN</a></h2>
-      <h2><a href="Resister.php">RESISTER</a></h2>
-      <h2><a href="Contact.php">CONTACT</a></h2>
+      <h2><a href="Gallery.php">GALLERY</a></h2>
+      <h2><a href="About.html">ABOUT</a></h2>
     </div>
     </div>
     </header>
-  <h3 ><marquee>CYBER SECURITY
+  <h3><marquee>माझे गाव खुटबाव
   </marquee></h3>
   <br>
-<div id="container">
-  <h4><b><u>Cyber Security GuideLines</b></u></h4>
-  <p><b> संगणक सुरक्षेलाच सायबर सिक्युरिटी किंवा माहिती तंत्रज्ञान सुरक्षितता (आयटी सुरक्षा) म्हणून ओळखले जाते. म्हणजेच संगणक प्रणाली आणि नेटवर्कचे हार्डवेअर, सॉफ्टवेअर किंवा इलेक्ट्रॉनिक डेटाची चोरी किंवा हानीपासून संरक्षण करणे. संगणक सुरक्षेकडून सेवांमध्ये व्यत्यय येण्यापासून किंवा चुकीच्या दिशानिर्देशापासून संरक्षण केले जाते.
+
+ <img src="khutbav.JPG" style="width:100%;height:300px">
+<p>
+ <b>खुटबाव माहिती ::</b><br/>
+ <ol>
+ <li>खुटबाव हे भारताच्या महाराष्ट्र राज्याच्या सातारा जिल्ह्यातील माण तालुक्यातील एक गाव आहे</li>
+ <li>हा देश किंवा पश्चिम महाराष्ट्र प्रदेशाचा आहे</li>
+<li> ते पुणे विभागातील आहे</li>
+<li> हे जिल्हा मुख्यालय सातारा पासून पूर्वेकडे 90 कि.मी. अंतरावर आहे</li>
+ <li>मान पासून 26 किमी अंतरावर आहे.</li>
+<li> राज्याच्या राजधानी मुंबतील 275 कि.मी. खुटबाव पिन कोड 415508 आणि डाक मुख्यालय दहीवडी आहे</li>
+ <li>मोही (६ कि.मी.), आंद्रद (१२कि.मी.), मर्डी (१२ कि.मी.), सोकासन (१४ कि.मी.), इंजाबाव (१४ कि.मी) ही खुटबाव जवळची गावे आहेत.</li>
+ <li>खुटबाव पश्चिमेस मान तालुका, पश्चिमेस फलटण तालुका, उत्तरेकडे बारामती तालुका, पश्चिमेस खटाव तालुका आहे.</li>
+ <li>म्हसवड, फलटण, बारामती, माहुली ही खुटबाव जवळची शहरे आहेत</li>
+ <li>खुटबाव मराठीची लोकसंख्याशास्त्र ही स्थानिक भाषा आहे. </li>
+ </ol>
 </p>
-<p id="readmore">read more</p>
-<p id="p2">
-सायबर सिक्युरिटी
-संगणक प्रणाली, इंटरनेट, वायरलेस नेटवर्क जसे की ब्लूटूथ आणि वाय-फाय, यांसह स्मार्ट उपकरणांच्या वाढीमुळे हे क्षेत्र अधिक महत्त्वपूर्ण होत आहे. राजकारण आणि तंत्रज्ञान या दोन्ही गोष्टींच्या अवघडपणामुळे संगणक सुरक्षा हे देखील जगातील एक मोठे आव्हान आहे.</b></p>
-</div>
-</br>
-<div id="container">
-  <h4><b><u>Instruction for caring your device</u></b></h4>
-  <p>
-    There are many types of phone hacking methods, ranging from hacking into a live conversation or into someone’s voicemail, and to hacking into data stored on one’s smartphone. While the fear of the unknown can keep anyone on edge, the person most likely to hack into your live conversation or voicemail will be someone that you already know, and in today’s mobile world, phone hacking continually grows as a security issue. As people increasingly store sensitive data on their mobile devices, the opportunity to exploit privacy weaknesses becomes more tempting to unscrupulous frenemies, exes or the occasional stranger.
+<p>
+  <b><i>खुटबाव स्थान ::</i></b>
+  <ol>
+  <li>तालुका नाव: मान</li>
+  <li>जिल्हा: सातारा</li>
+ <li> राज्य: महाराष्ट्र</li>
+ <li>प्रदेश: देश किंवा पश्चिम महाराष्ट्र</li>
+<li> विभाग: पुणे</li>
+  <li>भाषा: मराठी आणि सातारकर</li>
+  <li> टाइम झोन: IST (UTC + 5: 30)</li>
+ <li>उंची / उंची: 626 मीटर. समुद्र स्तरावरुन</li>
+ <li>  दूरध्वनी क्रमांक / एसटीडी कोड: 02165</li>
+ <li> पिन कोड: 415508</li>
+ <li> डाकघर नाव: दहिवडी </li>
+  </ol>
+</p>
+<p>
+ <b> जवळपास रेल्वे स्थानके ::</b>
+ <ul type="square">
+<li>  बारामती- 41 किमी
+  <br/>
+<li>  कटफल- 50 किमी
+  <br/>
+<li> भिगवण- 59 किमी
+  <br/>
+<li>सिरसुफळ - 60 किमी
+  </ul>
   </p>
-</div>
+  <p>
+ <b>जवळील विमानतळ ::</b>
+ <ul type="square" >
+ <li>  लोहेगाव विमानतळ- 131 कि.मि.
+   <br/>
+ <li> शोलापूर विमानतळ- 147 कि.मी.
+   <br/>
+ <li>  कोल्हापूर विमानतळ- 152 कि.मी.
+   <br/>
+<li>  लातूर विमानतळ- 219 कि.मी.
+   </ul>
+  </p>
+  <p>
+ <b> खुटबाव जवळील ठिकाणे ::</b>
+ <ul type="square">
+<li>  पंढरपूर- 75 कि.मी.
+  <br/>
+<li> सातारा- 83 कि.मी.
+  <br/>
+<li> मांडवा- 93 कि.मी.<br/>
+<li> पाचगणी  109 कि.मी.
+  <br/>
+  महाबळेश्वर- 125 कि.मी.
+  </ul>
+</p>
+<hr>
+<h1><marquee>THANKS FOR YOUR SUPPORT</marquee></h1>
+<hr>
 <article>
   <p id="follow"><b><u>FOLLOW US</u></b></p>
   <p><b>Term & Privecy</b></p>
