@@ -1,8 +1,8 @@
 body{
-  background: lightyellow;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-size: center;
+  background:black;
+  
+  
+
   font-family: fantasy;
 }
 img{
@@ -30,7 +30,7 @@ h3{
    font-size: 25px;
 }
 p,li{
-  color: black;
+  color: white;
   font-family: fantasy;
   
 }
