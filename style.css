@@ -30,7 +30,7 @@ h3{
    font-size: 25px;
 }
 p,li{
-  color: white;
+  color: black;
   font-family: fantasy;
   
 }
@@ -55,7 +55,7 @@ p,li{
   font-size: 25px;
 }
 article{
-  background: teal;
+  background: white;
   text-align: center;
   font-family: fantasy;
   color: black;
