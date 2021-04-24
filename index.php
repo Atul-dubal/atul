@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="atul,atul dubal,dubal2206">
+ <meta name="keywords" content="atul,dubal2206">
  <meta name="decription" content="for about khutbav village">
  <meta name="author" content="atul dubal">
   <title>ATUL D. DUBAL</title>
@@ -13,7 +14,7 @@
 </head>
 
 <body >
-  <header><img id="menu" src="grampanchayat.jpg"> <img align="right" id="menu1" src="grampanchayat.jpg">
+  <header><img id="menu" src="menu.png"> <img align="right" id="menu1" src="grampanchayat.jpg">
   <div id="container1">
     <div id="list">
     <h2> <a href="index.php">HOME</a></h2>
@@ -26,7 +27,7 @@
   </marquee></h3>
   <br>
 
- <img src="khutbav.JPG" style="width:100%;height:300px">
+ <img src="khutbav.JPG" style="width:100%;height:300px;border: 2px solid black">
 <p>
  <b>खुटबाव माहिती ::</b><br/>
  <ol>
@@ -103,8 +104,14 @@
   <p><b>Term & Privecy</b></p>
   <p>CONTACT NO. :: 8108816901</p>
   <p >E-mail :: atuldubal199@gmail.com</p>
-   <p>Powered By <span>Atul Dubal</span></p>
-   <p></br> </p>
+  <a href="https://wa.me/8108816901">
+   <img src="whatsApp.png"style="width:30px;height:30px"></a>
+   <a href=" https://www.instagram.com/atul_dubal_/ ">
+   <img src="insta.png" style="width: 30px;height:30px"></a>
+   <a href="alert('something went wrong')">
+   <img id="face" src="Facebook.png"style="width:30px;height:30px"></img></a>
+      <p>Powered By <span>Atul Dubal</span></p>
+   </article>
    </article>
 </br>
    <footer>
