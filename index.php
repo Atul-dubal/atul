@@ -106,7 +106,7 @@
   <p><b>Term & Conditions</b></p>
   <p>Contact No. :: 8108816901</p>
   <p >E-mail :: atuldubal199@gmail.com</p>
-  <a href=" https:wa.me/+918108816901  ">
+  <a href=" https://wa.me/+918108816901  ">
    <img src="WhatsApp.png"style="width:30px;height:30px"></a>
    <a href=" https://www.instagram.com/atul_dubal_/ ">
    <img src="insta.png" style="width: 30px;height:30px"></a>
