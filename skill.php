@@ -28,7 +28,7 @@
   <p style="font-size: 20px">नमस्कार,मी अतुल डुबल आपल्या समोर ही Website (<a href="https://atuldubal.herokuapp.com"style="color:blue";>https://atuldubal.herokuapp.com</a>) आणत आहे.हि Website तुमच्या समोर आणण्यामागे अनेक कारणे आहेत. त्यापैकी एक असे कि प्रत्येक मुलाच्या अंगात काही गुण असतात पण ते गुण योग्य रित्या सादर करता येत नाहीत व त्यामुळे त्याचे गुण दबून राहतात. तर मी या Website च्या माध्यमातून आपल्या गावातील विविध मुलांना आपले गुण सादर करण्यासाठी प्रोत्साहित करू इच्छितो व त्यांचे विचार लोकांसमोर मांडू इच्छीतो.</p>
 <div id="box">
   <img src="kavita.jpg" style="width: 80px;height: 80px; border-radius: 10px ;margin-top: 10px; margin-left: 40px;">
-    <img src="shayari.jpg" style="width: 80px;height: 80px;margin-top: 10px;margin-left: 100px;">
+    <img src="shayari" style="width: 80px;height: 80px;margin-top: 10px;margin-left: 100px;">
        <img src="speech.jpg" style="width: 80px;height: 80px;margin-top: 10px;margin-left:40px;border: 1px solid black;border-radius: 10px;">
 </div>
 
