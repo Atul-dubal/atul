@@ -9,6 +9,7 @@
  <meta name="author" content="atul dubal">
   <title>ATUL D. DUBAL</title>
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
   <link rel="icon" href="Atul.jpg">
   <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
 </head>
@@ -19,7 +20,8 @@
     <div id="list">
     <h2> <a href="index.php">HOME</a></h2>
       <h2><a href="Gallery.php">GALLERY</a></h2>
-      <h2><a href="About.html">ABOUT</a></h2>
+      <h2><a href="About.php">ABOUT</a></h2>
+         <h2><a href="Skill.php">SKILLS</a></h2>
     </div>
     </div>
     </header>
@@ -101,11 +103,11 @@
 <hr>
 <article>
   <p id="follow"><b><u>FOLLOW US</u></b></p>
-  <p><b>Term & Privecy</b></p>
-  <p>CONTACT NO. :: 8108816901</p>
+  <p><b>Term & Conditions</b></p>
+  <p>Contact No. :: 8108816901</p>
   <p >E-mail :: atuldubal199@gmail.com</p>
-  <a href="https://wa.me/8108816901">
-   <img src="WhatsApp.png"style="width:30px;height:30px"></a>
+  <a href=" https:wa.me/+918108816901  ">
+   <img src="whatsApp.png"style="width:30px;height:30px"></a>
    <a href=" https://www.instagram.com/atul_dubal_/ ">
    <img src="insta.png" style="width: 30px;height:30px"></a>
    <a href="alert('something went wrong')">
