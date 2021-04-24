@@ -21,7 +21,7 @@
     <h2> <a href="index.php">HOME</a></h2>
       <h2><a href="Gallery.php">GALLERY</a></h2>
       <h2><a href="About.php">ABOUT</a></h2>
-         <h2><a href="Skill.php">SKILLS</a></h2>
+         <h2><a href="skill.php">SKILLS</a></h2>
     </div>
     </div>
     </header>
