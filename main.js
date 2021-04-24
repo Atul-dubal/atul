@@ -1,4 +1,4 @@
-alert ("Please click on grampachayat logo to open menu");
+
 $("#list").hide();
 $(document).ready(function(){
   $("#p2").hide();
